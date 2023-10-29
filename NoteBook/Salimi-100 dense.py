@@ -11,7 +11,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 !ls 'drive/My Drive'
-# تعریف مسیر
+# Define the path
 
 from sklearn.preprocessing import  normalize
 from keras.layers import Input, Dense, BatchNormalization, Dropout, GaussianNoise, GaussianDropout
