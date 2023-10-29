@@ -43,7 +43,7 @@ from keras.utils import np_utils
 from keras.callbacks import CSVLogger, History
 import pandas as pd
 np.random.seed(seed=2019)
-#تعریف کتابخانه ها  و پیش نیازها
+#Define the libraries and prerequisite.
 
 import pandas as pd
 pd.__version__ #must be 0.23.0
