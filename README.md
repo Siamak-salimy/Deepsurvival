@@ -7,9 +7,7 @@ The data included TCGA RNA-seq gene expression, DNA methylation, and clinical da
 DOI: 10.1016/j.heliyon.2023.e17653 </br>
 https://doi.org/10.1146/annurev-statistics-032921-022127 : 
 In the era of precision medicine, time-to-event outcomes such as time to death or progression are routinely collected, along with high-throughput covariates. 
-These high-dimensional data defy classical survival regression
-models, which are either infeasible to fit or likely to incur low predictability
-due to overfitting.To overcome this, recent emphasis has been placed on de-
+These high-dimensional data defy classical survival regression models, which are either infeasible to fit or likely to incur low predictability due to overfitting.To overcome this, recent emphasis has been placed on de-
 veloping novel approaches for feature selection and survival prognostication.
 In this article, we review various cutting-edge methods that handle survival
 outcome data with high-dimensional predictors, highlighting recent inno-
